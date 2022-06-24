@@ -1,6 +1,7 @@
 - Хотите открыть эту страницу на [Русском](/ru)?
 - Бажаєте відкрити цю сторінку [Українською🇺🇦](/ua)?
 ### About:
+
 What is "MVS+"?(MinecraftVanillaSurvival+). This is a Minecraft server for version 1.19. The restart of the beloved project "MVS" (MinecraftVanillaSurvival).
 
 This server has mods, without which you can fully enter and play both with Java and Bedrock¹. If you want additional game features you can install our [modpack](/modpack).
