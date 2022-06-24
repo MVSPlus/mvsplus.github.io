@@ -1,4 +1,4 @@
 ## Добро пожаловать на MVS+!
-- Want to open this page on [English](/)?
+- Want to open this page in [English](/)?
 - Бажаєте відкрити цю сторінку [Українською](/ua)?
 ### О проекте:
