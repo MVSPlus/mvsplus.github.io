@@ -2,7 +2,7 @@
 - Бажаєте відкрити цю сторінку [Українською🇺🇦](/ua)?
 ### About:
 
-What is "MVS+"?(MinecraftVanillaSurvival+). This is a Minecraft server for version 1.19. The restart of the beloved project "MVS" (MinecraftVanillaSurvival). <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script> There are <span data-playercounter-ip="mc.hypixel.net">0</span> players on server right now.
+What is "MVS+"?(MinecraftVanillaSurvival+). This is a Minecraft server for version 1.19. The restart of the beloved project "MVS" (MinecraftVanillaSurvival). <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script> There are **<span data-playercounter-ip="mc.hypixel.net">0</span>** players on server right now.
 
 This server has mods, without which you can fully enter and play both with Java and Bedrock¹. If you want additional game features you can install our [modpack](/modpack).
 The server works on the system of RolePlay + Survival. This means that you can survive as a normal player, and also can create their own settlements, clans, shops².
