@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html>
-   <head>
-       <script type="text/javascript">
-    $( document ).ready(function(){
-        var userLang = navigator.language || navigator.userLanguage;
-        if (userLang == "ru") {
-            window.location.href = "/ru";
-        }
-        else {
-            window.location.href = "/en"
-        }
-    });
+<html
+<select id="Lang" onchange="changeLang(this)">
+ <option value="en">English</option>
+ <option value="ru">Russian</option>
+</select>
+<script>
+   function changeLang(selectObject) {
+     switch(selectObject.value){
+        case 'en': window.location="/en"; break;
+        case 'ru': window.location="/ru"; break;
+      }
+   }
 </script>
-   </head>
-   <body>
-      <p>Redirecting...</p>
-   </body>
 </html>
-
