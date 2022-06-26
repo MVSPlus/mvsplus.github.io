@@ -4,7 +4,7 @@
 
 What is "MVS+"? This is a Minecraft server for version 1.19. The restart of the beloved project "MVS" (MinecraftVanillaSurvival).
 
-This server has mods, without which you can fully enter and play both with Java and Bedrock¹. If you want additional game features you can install our [modpack](/modpack).
+This server has mods, without which you can fully enter and play both with Java and Bedrock¹. If you want additional game features you can install our [modpack](/en/modpack).
 The server works on the system of RolePlay + Survival. This means that you can survive as a normal player, and also can create their own settlements, clans, shops².
 
 Griefing is forbidden! The server has no privates, but there is a system for recording any changes blocks, so as to track unwanted actions.
