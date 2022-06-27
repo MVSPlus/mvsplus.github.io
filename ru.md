@@ -1,4 +1,4 @@
 - [О проекте](/ru/about)
-- [IP-адрес сервера](/ru/ip)
+- [Подключение к серверу](/ru/connecting)
 - [Модпак](/ru/modpack)
 - [Создатели](/ru/contributors)

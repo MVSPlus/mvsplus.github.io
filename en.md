@@ -1,4 +1,4 @@
 - [About](/en/about)
-- [Connection](/en/ip)
+- [Connecting](/en/connecting)
 - [Modpack](/en/modpack)
 - [Contributors](/en/contributors)
