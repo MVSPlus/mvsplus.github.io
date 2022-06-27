@@ -4,8 +4,8 @@
 
 
 
-Видео установки:
+###Видео установки:
 <html>
-<iframe width="620" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 </html>
