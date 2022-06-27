@@ -1,2 +1,2 @@
-- [Home](/)
+- [Menu](/en)
 ### About modpack:
