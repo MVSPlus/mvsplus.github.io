@@ -1,2 +1,1 @@
-<link rel="stylesheet" href="normalize.css">
-<a href="http://google.com" class="btn btn-default">Go to Google</a>
+<a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
