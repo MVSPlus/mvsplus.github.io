@@ -1,4 +1,4 @@
 - [Про проект](/uk/about)
-- [Підключення](/uk/connecting)
+- [Підключення до серверу](/uk/connecting)
 - [Модпак](/uk/modpack)
 - [Творці](/uk/contributors)
