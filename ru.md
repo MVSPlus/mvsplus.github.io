@@ -1,11 +1,1 @@
-<a href="http://google.com" class="button">Go to Google</a>
-
-
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
-}
+<a href="http://google.com" class="btn btn-default">Go to Google</a>
