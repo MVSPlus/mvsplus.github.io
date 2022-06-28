@@ -1,4 +1,5 @@
 - [About](/en/about)
-- [Connecting to Server](/en/connecting)
+- [Connecting to the Server](/en/connecting)
 - [Modpack](/en/modpack)
+- [Our Discord-Server](/discord)
 - [Contributors](/en/contributors)
