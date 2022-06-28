@@ -8,7 +8,7 @@ The server works on the system of RolePlay + Survival. This means that you can s
 
 Griefing is forbidden! The server has no privates, but there is a system for recording any changes blocks, so as to track unwanted actions.
 
-To play on the server is required to apply to play on our server [Discord](). 
+To play on the server is required to apply to play on our server [Discord](/discord). 
 
 Our project is completely OpenSource, the source code of which is uploaded to [GitHub](https://github.com/MVSPlus)
 
