@@ -1,7 +1,0 @@
-- [About](/en/about)
-- [Connecting to the Server](/en/connecting)
-- [Modpack](/en/modpack)
-- [How to install your own skin to server?](/en/skins)
-- [Dynamic Map](/en/dynmap)
-- [Our Discord-Server](/discord)
-- [Contributors](/en/contributors)
