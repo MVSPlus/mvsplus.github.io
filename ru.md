@@ -1,7 +1,6 @@
 ---
 description: Добро пожаловать!
 ---
-[Click me](http://www.google.com){: .btn}
 - [О проекте](/ru/about)
 - [Подключение к серверу](/ru/connecting)
 - [Модпак](/ru/modpack)
